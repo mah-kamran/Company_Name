@@ -4,4 +4,5 @@ here are some of the reports that can be found in this analysis :
 2. The growth in the number of companies over the time
 3. A quick analysis of domain postfix in the website address of the companies
 4. A quick analysis of the distribution of employees based on company/location
-5. Correlation between the size of the companies and found year 
+5. Correlation between the size of the companies and founded year 
+6. A quick analysis on the repetition of words in the name of the companies
